@@ -1,7 +1,1 @@
-# FlignoTraining
-
-FlignoTraining
-
-Mirah Mea Aguilar
-
-Bsit
+Mirah Mea Aguilar BSIT
